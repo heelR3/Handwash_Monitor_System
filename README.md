@@ -1,1 +1,1 @@
-Engineeredanautomatictapsystemutilizing Arduino UNO,integrating an OLEDdisplaytodeliver real-time countdownsandmessages. Designedforapplications in medical fields, such as operation theatres, to monitor staff compliance with handwashingprotocols.
+Engineered an automatic tap system utilizing Arduino UNO,integrating an OLED display to deliver real-time countdowns and messages. Designed for applications in medical fields, such as operation theatres, to monitor staff compliance with handwashing protocols.
