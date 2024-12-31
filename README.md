@@ -1,1 +1,1 @@
-# Handwash_Monitor_System
+Engineeredanautomatictapsystemutilizing Arduino UNO,integrating an OLEDdisplaytodeliver real-time countdownsandmessages. Designedforapplications in medical fields, such as operation theatres, to monitor staff compliance with handwashingprotocols.
