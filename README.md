@@ -4,3 +4,4 @@ Developed an IoT-based automatic handwash monitoring system using Arduino Uno to
 **Technologies Used**: Arduino, IoT Sensors, OLED Display, Relay Module, Embedded C
 
 **Circuit Diagram**:
+![Handwash Monitoring System](./Circuit.jpg)
